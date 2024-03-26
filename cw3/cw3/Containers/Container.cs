@@ -1,4 +1,4 @@
-﻿namespace cw3.Containers
+namespace cw3.Containers
 {
     public abstract class Container : IContainer
     {
